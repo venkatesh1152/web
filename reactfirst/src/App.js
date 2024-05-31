@@ -1,11 +1,13 @@
 import logo from './logo.svg';
 import './App.css';
 import Card from './Card';
+import LoginPage from './LoginPage';
+import Page_1 from './Page_1';
 
 function App() {
   return (
     <div className="App">
-          <Card />
+          <Page_1/>
     </div>
   );
 }
